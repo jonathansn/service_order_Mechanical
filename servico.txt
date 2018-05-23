@@ -1,0 +1,1 @@
+Girafales,12345678910,Chevete,def5678,Madruga,Eletricista,Motor Funido,Sim,1500.0,500.0,150.0,1850.0,Florinda,987632110,Fusca,abc1234,Jaiminho,Mecanico,Injecao Eletronica,Sim,800.0,400.0,50.0,1150.0,Barriga,99988877766,Opala,vxz9876,Jaiminho,Mecanico,Furo no Tanque,Nao,250.0,100.0,0.0,350.0,
